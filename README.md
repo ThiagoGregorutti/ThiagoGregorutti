@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Thiago 👋
+
+"What we are looking for is how everything works. What makes everything work."
+- 💻 Future Developer.
+- ⚡ Majoring Astrophysics.
+- 💬 Feel free to talk with me about anything.
+  
+
 
 <!--
 **ThiagoGregorutti/ThiagoGregorutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
