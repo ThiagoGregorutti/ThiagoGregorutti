@@ -1,8 +1,7 @@
 ### Hi there, I'm Thiago 👋
 
 "What we are looking for is how everything works. What makes everything work."
-- 💻 Future Backend Developer.
-- ⚡ Majoring Astrophysics.
+- 💻 Studying Backend Development.
 - 💬 Feel free to talk with me about anything.
   
 
