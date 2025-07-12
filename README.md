@@ -2,7 +2,7 @@
   
   <p>
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B6B6B6&multiline=false&width=435&lines=Above+all%2C+I'm+just+a+man."
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4250&pause=1000&color=B6B6B6&center=true&multiline=true&width=435&lines=Above+all%2C+I'm+just+a+man."
       alt="Noctis quote"
     >
   </p>
