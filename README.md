@@ -1,1 +1,1 @@
-[![Gioh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gioh&theme=high-contrast)](https://github.com/ThiagoGregorutti/github-readme-activity-graph)
+[![ThiagoGregorutti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gioh&theme=high-contrast)](https://github.com/ThiagoGregorutti/github-readme-activity-graph)
