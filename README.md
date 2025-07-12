@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10&color=AEAEAE&center=true&width=435&lines=Above+all%2C+I'm+just+a+man.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=AEAEAE&center=true&vCenter=true&width=435&height=100&lines=Above+all%2C+I'm+just+a+man.)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://media1.tenor.com/m/AO7vsS-hWAYAAAAC/noctis-lucis-caelum-noctis.gif" alt="Noctis" />
