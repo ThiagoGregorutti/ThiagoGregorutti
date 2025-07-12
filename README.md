@@ -1,3 +1,6 @@
-![Noctis](https://media1.tenor.com/m/AO7vsS-hWAYAAAAC/noctis-lucis-caelum-noctis.gif)
+<p align="center">
+  <img src="https://media1.tenor.com/m/AO7vsS-hWAYAAAAC/noctis-lucis-caelum-noctis.gif" alt="Noctis" />
+</p>
+
 
 [![Thiago Gregorutti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoGregorutti&theme=high-contrast)](https://github.com/ThiagoGregorutti/github-readme-activity-graph)
