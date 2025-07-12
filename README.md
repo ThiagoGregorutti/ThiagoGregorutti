@@ -7,7 +7,7 @@
     >
   </p>
 
-  <p align="center">
+  <p>
     <img src="https://media1.tenor.com/m/AO7vsS-hWAYAAAAC/noctis-lucis-caelum-noctis.gif" alt="Noctis" />
   </p>
   
