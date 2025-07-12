@@ -1,10 +1,4 @@
-
-<p>
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=3000&color=FFFFFF&center=true&vCenter=true&width=400&height=50&lines=A+Life+that+lives+wihtout+doing+anything+is+the+same+as+a+slow+death"
-    alt="Rei Ayanami Quote"
-  >
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10&color=AEAEAE&center=true&width=435&lines=Above+all%2C+I'm+just+a+man.)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://media1.tenor.com/m/AO7vsS-hWAYAAAAC/noctis-lucis-caelum-noctis.gif" alt="Noctis" />
