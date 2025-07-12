@@ -13,7 +13,7 @@
   
   <p>
   <a href="https://github.com/ThiagoGregorutti">
-    <img src="https://github-readme-stats.vercel.app/api?username=ThiagoGregoruttih&show_icons=true&theme=graywhite&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff" alt="Operation Record - ThiagoGregorutti">
+    <img src="https://github-readme-stats.vercel.app/api?username=ThiagoGregorutti&show_icons=true&theme=graywhite&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff" alt="Operation Record - ThiagoGregorutti">
   </a>
 </p>
 <p>
