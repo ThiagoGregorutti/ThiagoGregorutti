@@ -4,7 +4,7 @@
     alt="Emil Quote" /></a>
 
   <p>
-    <img src="https://media1.tenor.com/m/AO7vsS-hWAYAAAAC/noctis-lucis-caelum-noctis.gif" alt="Noctis gif" />
+    <img src="https://media1.tenor.com/m/onvxtpfwEysAAAAd/brother-nier-nier.gif" alt="NieR gif" />
   </p>
   
   <p>
