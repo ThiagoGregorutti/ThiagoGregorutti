@@ -8,6 +8,13 @@
   </p>
 
   <p>
+    <img
+      src+"https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&width=435&lines=There+are+as+many+ways+to+view+the+world+as+there+are+people+in+it."
+    alt="Emil Quote"
+    >
+  </p>
+
+  <p>
     <img src="https://media1.tenor.com/m/AO7vsS-hWAYAAAAC/noctis-lucis-caelum-noctis.gif" alt="Noctis gif" />
   </p>
   
