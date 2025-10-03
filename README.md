@@ -1,13 +1,7 @@
 <div align="center">
   
-  <p>
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4250&pause=1000&color=B6B6B6&center=true&multiline=true&width=435&lines=Above+all%2C+I'm+just+a+man."
-      alt="Noctis quote"
-    >
-  </p>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=B3B3B3&center=true&multiline=true&width=435&lines=There+are+as+many+ways+to+view+the+world;+as+there+are+people+in+it." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1500&color=B3B3B3&center=true&multiline=true&width=435&lines=There+are+as+many+ways+to+view+the+world;+as+there+are+people+in+it."
+    alt="Emil Quote" /></a>
 
   <p>
     <img src="https://media1.tenor.com/m/AO7vsS-hWAYAAAAC/noctis-lucis-caelum-noctis.gif" alt="Noctis gif" />
