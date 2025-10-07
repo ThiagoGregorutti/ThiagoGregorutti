@@ -7,7 +7,18 @@
     <img src="https://media1.tenor.com/m/onvxtpfwEysAAAAd/brother-nier-nier.gif" alt="NieR gif" />
   </p>
 
-  
+---
+
+### 🧰 Technologies and Tools
+<a href="https://wamellow.com" title="Click Me">
+      <img src="https://skillicons.dev/icons?i=windows,linux,arch" /><br />
+      <img src="https://skillicons.dev/icons?i=java" /><br />
+      <img src="https://skillicons.dev/icons?i=redis,postgres" /><br />
+      <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions" /><br />
+      <img src="https://skillicons.dev/icons?i=vscode,idea" /><br />
+      <img src="https://skillicons.dev/icons?i=aws" /><br />
+</a>
+
 <!--
 
     <p>
