@@ -13,9 +13,9 @@
 <a href="https://wamellow.com" title="Click Me">
       <img src="https://skillicons.dev/icons?i=java" /><br />
       <img src="https://skillicons.dev/icons?i=redis,postgres" /><br />
-      <img src="https://skillicons.dev/icons?i=vscode,idea" /><br />
+      <!-- <img src="https://skillicons.dev/icons?i=vscode,idea" /><br /> -->
+      <img src="https://skillicons.dev/icons?i=git,gitlab,githubactions" /><br />
       <img src="https://skillicons.dev/icons?i=aws,windows,linux,arch" /><br />
-      <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions" /><br />
 </a>
 
 <!--
