@@ -4,10 +4,10 @@
 
 # **Heyhow fellow Humans** (\*/ω＼*)
 
-**`Fullswag Developer`** @gioh 
+**`Backend Developer`** @
 <br>
 <br>
-My name is Thiago, I am an aspiring Backend Developer. I am passionate about programming and love working with different languages, mainly Java. I enjoy creating a wide range of things and figuring out how everything works.
+My name is Thiago, I am aspiring to grow as a Backend Developer. I am passionate about programming and love working with different languages, mainly Java. I enjoy creating a wide range of things and figuring out how everything works.
 
 I'm also known as `gioh` on other platforms!
   
