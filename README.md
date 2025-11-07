@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=19&duration=1500&color=ACACAC&center=true&multiline=true&repeat=false&width=435&lines=There+are+as+many+ways+to+view+the+world;as+there+are+people+in+it." alt="Typing SVG" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=19&duration=1500&color=ACACAC&center=true&multiline=true&repeat=false&width=435&lines=There+are+as+many+ways+to+view+the+world;as+there+are+people+in+it." alt="Typing SVG" /></a>
 </div>
 
 # **Heyhow fellow Humans** (\*/ω＼*)
