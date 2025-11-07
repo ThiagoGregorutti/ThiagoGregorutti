@@ -11,10 +11,11 @@ My name is Thiago, I am an aspiring Backend Developer. I am passionate about pro
 I'm also known as `gioh` on other platforms!
   
 check out [my personal site and blog](https://thiagogregorutti.github.io/gioh.dev/)!!
+
 ---
 
 ### 🧰 Technologies and Tools
-<a>
+<a href="https://wamellow.com" title="Click Me">
       <img src="https://skillicons.dev/icons?i=windows,linux,arch" /><br />
       <img src="https://skillicons.dev/icons?i=java,js,go,elixir,cpp,html,css" /><br />
       <img src="https://skillicons.dev/icons?i=redis,postgres,mongodb,mysql,tailwind,mongodb" /><br />
