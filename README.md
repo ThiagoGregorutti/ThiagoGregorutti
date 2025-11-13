@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=&size=19&duration=1500&color=ACACAC&center=true&multiline=true&repeat=false&width=435&lines=There+are+as+many+ways+to+view+the+world;as+there+are+people+in+it." alt="Typing SVG" /></a>
 </div>
 
-# **Heyhow fellow Humans** (\*/ω＼*)
+# **Heyhow Humans o7**
 
 **`Backend Developer`** @
 <br>
@@ -11,7 +11,7 @@ My name is Thiago, I am aspiring to grow as a Backend Developer. I am passionate
 
 I'm also known as `gioh` on other platforms!
   
-check out [my personal site and blog](https://thiagogregorutti.github.io/gioh.dev/)!!
+check out [my personal site and blog](https://thiagogregorutti.github.io/minimalist-portfolio/)!!
 
 ---
 
