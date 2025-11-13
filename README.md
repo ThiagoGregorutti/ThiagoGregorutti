@@ -11,7 +11,7 @@ My name is Thiago, I am aspiring to grow as a Backend Developer. I am passionate
 
 I'm also known as `gioh` on other platforms!
   
-check out [my personal site and blog](https://thiagogregorutti.github.io/minimalist-portfolio/)!!
+check out [my personal site and blog](https://thiagogregorutti.github.io/portfolio-website/)!!
 
 ---
 
